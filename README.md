@@ -13,12 +13,6 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 ## PROGRAM:
 ```
-expr6.txt
-
-t1 = a + b
-t2 = t1 - c
-
-
 expr6.c
 
 #include <stdio.h>
@@ -81,6 +75,12 @@ int main() {
 }
 ```
 ## OUTPUT:
+
+expr6.txt
+
+t1 = a + b
+t2 = t1 - c
+
 
 <img width="928" height="604" alt="Screenshot 2025-10-10 114929" src="https://github.com/user-attachments/assets/1374e55b-4091-4285-a95a-ab11d6927ca4" />
 
